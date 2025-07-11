@@ -1,1 +1,1 @@
-https://github.com/am-aalex/posmotri-v-okno-fd#
+https://github.com/am-aalex/posmotri-v-okno-fd
