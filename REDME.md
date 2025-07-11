@@ -1,1 +1,0 @@
-https://github.com/am-aalex/posmotri-v-okno-fd#
