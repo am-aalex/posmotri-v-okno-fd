@@ -193,6 +193,9 @@ ol {
   outline-offset: 1px;
   display: flex;
 }
+.search-form__fieldset:nth-of-type(2) .search-form__label:hover {
+  text-decoration: underline;
+}
 .search-form__textfield {
   appearance: none;
   background-color: unset;
